@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b02a357c-6ce6-4b1e-84e1-bbdebc1a53a6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/App13-Student-management-system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/App13-Student-management-system.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b02a357c-6ce6-4b1e-84e1-bbdebc1a53a6" name="Changes" comment="Completed the App by adding the EDIT record and DELETE button, &#10;added the About sub item.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/database.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,6 +123,19 @@
       <option name="presentableId" value="Default" />
       <updated>1715106670582</updated>
     </task>
+    <task id="LOCAL-00001" summary="Completed the App by adding the EDIT record and DELETE button, &#10;added the About sub item.">
+      <option name="closed" value="true" />
+      <created>1724955283554</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724955283554</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed the App by adding the EDIT record and DELETE button, &#10;added the About sub item." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the App by adding the EDIT record and DELETE button, &#10;added the About sub item." />
   </component>
 </project>
