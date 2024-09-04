@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b02a357c-6ce6-4b1e-84e1-bbdebc1a53a6" name="Changes" comment="Completed the App removed code smells and added databseconnection class">
+    <list default="true" id="b02a357c-6ce6-4b1e-84e1-bbdebc1a53a6" name="Changes" comment="First commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/database.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +29,12 @@
     &quot;assignee&quot;: &quot;karthik9990&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/karthik9990/App13-Student-management-system.git&quot;,
-    &quot;accountId&quot;: &quot;e41b7431-6e67-49b4-8bd7-a460e295331b&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/karthik9990/App14-With-MySQL-Student-management-system.git",
+    "accountId": "e41b7431-6e67-49b4-8bd7-a460e295331b"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -44,16 +44,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.vcf.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ktadakapalli/VCF Generator&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.vcf.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ktadakapalli/App14-With MySQL-Student-management-system",
+    "settings.editor.selected.configurable": "preferences.general"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="App13-Student-management-system" />
@@ -139,12 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725403579380</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1725480701043</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725480701043</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed the App by adding the EDIT record and DELETE button, &#10;added the About sub item." />
     <MESSAGE value="Completed the App removed code smells and added databseconnection class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the App removed code smells and added databseconnection class" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
