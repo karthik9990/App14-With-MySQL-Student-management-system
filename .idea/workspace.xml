@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b02a357c-6ce6-4b1e-84e1-bbdebc1a53a6" name="Changes" comment="First commit">
+    <list default="true" id="b02a357c-6ce6-4b1e-84e1-bbdebc1a53a6" name="Changes" comment="Deleted unnecessary files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/database.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,13 +147,22 @@
       <option name="project" value="LOCAL" />
       <updated>1725480701043</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Deleted unnecessary files">
+      <option name="closed" value="true" />
+      <created>1725487517579</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725487517579</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed the App by adding the EDIT record and DELETE button, &#10;added the About sub item." />
     <MESSAGE value="Completed the App removed code smells and added databseconnection class" />
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Deleted unnecessary files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted unnecessary files" />
   </component>
 </project>
