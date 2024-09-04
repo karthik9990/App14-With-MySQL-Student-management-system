@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b02a357c-6ce6-4b1e-84e1-bbdebc1a53a6" name="Changes" comment="Completed the App by adding the EDIT record and DELETE button, &#10;added the About sub item.">
+    <list default="true" id="b02a357c-6ce6-4b1e-84e1-bbdebc1a53a6" name="Changes" comment="Completed the App removed code smells and added databseconnection class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -131,11 +131,20 @@
       <option name="project" value="LOCAL" />
       <updated>1724955283554</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completed the App removed code smells and added databseconnection class">
+      <option name="closed" value="true" />
+      <created>1725403579380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725403579380</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed the App by adding the EDIT record and DELETE button, &#10;added the About sub item." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the App by adding the EDIT record and DELETE button, &#10;added the About sub item." />
+    <MESSAGE value="Completed the App removed code smells and added databseconnection class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the App removed code smells and added databseconnection class" />
   </component>
 </project>
