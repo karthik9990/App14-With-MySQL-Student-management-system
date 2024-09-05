@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b02a357c-6ce6-4b1e-84e1-bbdebc1a53a6" name="Changes" comment="Deleted unnecessary files">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="b02a357c-6ce6-4b1e-84e1-bbdebc1a53a6" name="Changes" comment="Updated MYSQL and updated the code accordingly to use the database" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725487517579</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated MYSQL and updated the code accordingly to use the database">
+      <option name="closed" value="true" />
+      <created>1725490219435</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725490219435</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -163,6 +168,7 @@
     <MESSAGE value="Completed the App removed code smells and added databseconnection class" />
     <MESSAGE value="First commit" />
     <MESSAGE value="Deleted unnecessary files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted unnecessary files" />
+    <MESSAGE value="Updated MYSQL and updated the code accordingly to use the database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated MYSQL and updated the code accordingly to use the database" />
   </component>
 </project>
